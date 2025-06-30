@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "98a0cec34737438b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d4539fb5b8245d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36413c229954e5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Smart_Contract_Security/Contract Centralization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contract Centralization"
+            }
+          },
+          {
+            "id": "9d81d30e19f4d722",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6870a5b013a41db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timelock"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e82cbb2b678ceb14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe845780814f008",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91a75bd059e820fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5dd6527529eeb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c031d01fc82688f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08ef1334e2565639",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cc25537ebd602ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7d16d28e08be0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "50946b9a381b32bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9142baf3976223f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Attack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Attack"
+            }
+          },
+          {
+            "id": "99c89e2cb9267be7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Attack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Attack"
+            }
+          },
+          {
+            "id": "99bda858021daa57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "691729355884e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Attack.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Attack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9d81d30e19f4d722",
+  "lastOpenFiles": [
+    "50_Case_Studies/Oasis Counter Exploit.md",
+    "30_Smart_Contract_Security/Contract Centralization.md",
+    "Timelock.md",
+    "Role-Based Access Control.md",
+    "30_Smart_Contract_Security/Centralization.md",
+    "10_Blockchain_Fundamentals/DeFi/Lending Protocol.md",
+    "10_Blockchain_Fundamentals/DeFi/AMM.md",
+    "10_Blockchain_Fundamentals/DeFi/CPMM.md",
+    "30_Smart_Contract_Security/Reentrancy Attack.md",
+    "10_Blockchain_Fundamentals/DeFi/Market Maker.md",
+    "10_Blockchain_Fundamentals/DeFi/Market.md",
+    "10_Blockchain_Fundamentals/DeFi/Market Mechanisms.md",
+    "Private Audit.md",
+    "10_Blockchain_Fundamentals/DeFi/Flash Loan.md",
+    "10_Blockchain_Fundamentals/DeFi/AAVE.md",
+    "Order Book.md",
+    "Templates/Term.md",
+    "Templates/Attack.md",
+    "50_Case_Studies/Euler Invariant.md",
+    "20_Smart_Contract_Development/EIP/ERC-777.md",
+    "30_Smart_Contract_Security/Weird ERC20s.md",
+    "20_Smart_Contract_Development/EIP",
+    "40_Tools_and_Frameworks/Echidna.md",
+    "30_Smart_Contract_Security/Properties.md",
+    "10_Blockchain_Fundamentals/DeFi/Uniswap.md",
+    "30_Smart_Contract_Security/FREI-PI.md",
+    "30_Smart_Contract_Security/Handler Fuzzing.md",
+    "10_Blockchain_Fundamentals/DeFi",
+    "20_Smart_Contract_Development/21_Solidity",
+    "50_Case_Studies",
+    "Templates",
+    "References",
+    "60_Protocol_Analyses",
+    "40_Tools_and_Frameworks",
+    "30_Smart_Contract_Security/Untitled",
+    "30_Smart_Contract_Security"
+  ]
+}
