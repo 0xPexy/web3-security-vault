@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelock.md",
+                "file": "30_Smart_Contract_Security/Timelock.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,15 +233,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9d81d30e19f4d722",
   "lastOpenFiles": [
+    "50_Case_Studies/Euler Invariant.md",
+    "50_Case_Studies/The DAO Hack.md",
     "50_Case_Studies/Oasis Counter Exploit.md",
     "30_Smart_Contract_Security/Contract Centralization.md",
-    "Timelock.md",
-    "Role-Based Access Control.md",
+    "30_Smart_Contract_Security/Timelock.md",
+    "30_Smart_Contract_Security/Role-Based Access Control.md",
     "30_Smart_Contract_Security/Centralization.md",
     "10_Blockchain_Fundamentals/DeFi/Lending Protocol.md",
     "10_Blockchain_Fundamentals/DeFi/AMM.md",
@@ -250,13 +253,12 @@
     "10_Blockchain_Fundamentals/DeFi/Market Maker.md",
     "10_Blockchain_Fundamentals/DeFi/Market.md",
     "10_Blockchain_Fundamentals/DeFi/Market Mechanisms.md",
-    "Private Audit.md",
+    "30_Smart_Contract_Security/Private Audit.md",
     "10_Blockchain_Fundamentals/DeFi/Flash Loan.md",
     "10_Blockchain_Fundamentals/DeFi/AAVE.md",
-    "Order Book.md",
+    "10_Blockchain_Fundamentals/DeFi/Order Book.md",
     "Templates/Term.md",
     "Templates/Attack.md",
-    "50_Case_Studies/Euler Invariant.md",
     "20_Smart_Contract_Development/EIP/ERC-777.md",
     "30_Smart_Contract_Security/Weird ERC20s.md",
     "20_Smart_Contract_Development/EIP",
@@ -264,7 +266,6 @@
     "30_Smart_Contract_Security/Properties.md",
     "10_Blockchain_Fundamentals/DeFi/Uniswap.md",
     "30_Smart_Contract_Security/FREI-PI.md",
-    "30_Smart_Contract_Security/Handler Fuzzing.md",
     "10_Blockchain_Fundamentals/DeFi",
     "20_Smart_Contract_Development/21_Solidity",
     "50_Case_Studies",
