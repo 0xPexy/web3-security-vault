@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36413c229954e5ad",
+            "id": "6870a5b013a41db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Smart_Contract_Security/Contract Centralization.md",
+                "file": "50_Case_Studies/Parity Wallet Freeze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contract Centralization"
+              "title": "Parity Wallet Freeze"
             }
           },
           {
-            "id": "9d81d30e19f4d722",
+            "id": "9adfbb94f7de17e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,17 +32,17 @@
             }
           },
           {
-            "id": "6870a5b013a41db4",
+            "id": "4d1aa8eb747d4200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Smart_Contract_Security/Timelock.md",
+                "file": "50_Case_Studies/Parity Wallet Freeze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timelock"
+              "title": "Parity Wallet Freeze"
             }
           }
         ],
@@ -237,15 +237,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d81d30e19f4d722",
+  "active": "9adfbb94f7de17e6",
   "lastOpenFiles": [
-    "50_Case_Studies/Euler Invariant.md",
-    "50_Case_Studies/The DAO Hack.md",
+    "30_Smart_Contract_Security/Uninitialized Contracts.md",
+    "50_Case_Studies/Parity Wallet Freeze.md",
     "50_Case_Studies/Oasis Counter Exploit.md",
     "30_Smart_Contract_Security/Contract Centralization.md",
     "30_Smart_Contract_Security/Timelock.md",
-    "30_Smart_Contract_Security/Role-Based Access Control.md",
     "30_Smart_Contract_Security/Centralization.md",
+    "50_Case_Studies/Euler Invariant.md",
+    "50_Case_Studies/The DAO Hack.md",
+    "30_Smart_Contract_Security/Role-Based Access Control.md",
     "10_Blockchain_Fundamentals/DeFi/Lending Protocol.md",
     "10_Blockchain_Fundamentals/DeFi/AMM.md",
     "10_Blockchain_Fundamentals/DeFi/CPMM.md",
@@ -264,8 +266,6 @@
     "20_Smart_Contract_Development/EIP",
     "40_Tools_and_Frameworks/Echidna.md",
     "30_Smart_Contract_Security/Properties.md",
-    "10_Blockchain_Fundamentals/DeFi/Uniswap.md",
-    "30_Smart_Contract_Security/FREI-PI.md",
     "10_Blockchain_Fundamentals/DeFi",
     "20_Smart_Contract_Development/21_Solidity",
     "50_Case_Studies",
