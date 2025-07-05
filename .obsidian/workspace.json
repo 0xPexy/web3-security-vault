@@ -203,11 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11422ed7e782219b",
+  "active": "c031d01fc82688f9",
   "lastOpenFiles": [
-    "Initializer.md",
+    "20_Smart_Contract_Development/Initializer.md",
     "30_Smart_Contract_Security/Uninitialized Contracts.md",
-    "Proxy Pattern.md",
+    "20_Smart_Contract_Development/Proxy Pattern.md",
     "Untitled.canvas",
     "50_Case_Studies/Parity Wallet Freeze.md",
     "50_Case_Studies/Cream Finance Hack (October 2021).md",
