@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e82cbb2b678ceb14",
-        "type": "tabs",
-        "dimension": 61.47260273972602,
-        "children": [
-          {
-            "id": "f397bd0ee36320f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50_Case_Studies/Cream Finance Hack (October 2021).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cream Finance Hack (October 2021)"
-            }
-          }
-        ]
-      },
-      {
         "id": "a1b724e756625ef0",
         "type": "tabs",
-        "dimension": 38.52739726027397,
         "children": [
           {
             "id": "fbe845780814f008",
@@ -35,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "50_Case_Studies/Cream Finance Hack (October 2021).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,10 +40,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cream Finance Hack (October 2021)"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "11422ed7e782219b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,16 +203,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f397bd0ee36320f1",
+  "active": "11422ed7e782219b",
   "lastOpenFiles": [
+    "Initializer.md",
+    "30_Smart_Contract_Security/Uninitialized Contracts.md",
+    "Proxy Pattern.md",
+    "Untitled.canvas",
+    "50_Case_Studies/Parity Wallet Freeze.md",
     "50_Case_Studies/Cream Finance Hack (October 2021).md",
     "30_Smart_Contract_Security/Price Oracle Manipulation.md",
     "50_Case_Studies/Cream Finance.md",
     "50_Case_Studies/Euler Invariant.md",
     "50_Case_Studies/Oasis Counter Exploit.md",
-    "50_Case_Studies/Parity Wallet Freeze.md",
     "10_Blockchain_Fundamentals/DeFi/Lending Protocol.md",
-    "30_Smart_Contract_Security/Uninitialized Contracts.md",
     "30_Smart_Contract_Security/Timelock.md",
     "30_Smart_Contract_Security/Stateless Fuzzing.md",
     "30_Smart_Contract_Security/Stateful Fuzzing.md",
@@ -241,8 +232,6 @@
     "10_Blockchain_Fundamentals/DeFi/Market.md",
     "10_Blockchain_Fundamentals/DeFi/Market Mechanisms.md",
     "30_Smart_Contract_Security/Private Audit.md",
-    "10_Blockchain_Fundamentals/DeFi/Flash Loan.md",
-    "10_Blockchain_Fundamentals/DeFi/AAVE.md",
     "20_Smart_Contract_Development/EIP",
     "10_Blockchain_Fundamentals/DeFi",
     "20_Smart_Contract_Development/21_Solidity",
