@@ -9,3 +9,8 @@ The race condition is inevitable itself, but if there is no way for preventing t
 ### Intra-Transaction (Single Transaction) ToCToU
 - [[CEI Violation]]: Interacting with another contract before completely finishing the checking-effecting allows reentrancy, can be exploitable as [[Reentrancy Attack]].
 ### Inter-Transaction (Multiple Transaction) ToCToU
+
+
+
+
+

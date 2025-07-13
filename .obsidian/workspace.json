@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b724e756625ef0",
+        "id": "2bfe2b0645845354",
         "type": "tabs",
         "children": [
           {
-            "id": "11422ed7e782219b",
+            "id": "dcc826690f061a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Smart_Contract_Security/34_Best Practices/Timelock.md",
+                "file": "30_Smart_Contract_Security/31_Concepts/Data Integrity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timelock"
+              "title": "Data Integrity"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30_Smart_Contract_Security/34_Best Practices/Timelock.md",
+                "file": "30_Smart_Contract_Security/31_Concepts/Data Integrity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,12 +180,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.462560262187938,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Timelock"
+              "title": "Graph of Data Integrity"
             }
           }
         ],
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,44 +205,42 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "c031d01fc82688f9",
+  "active": "dcc826690f061a39",
   "lastOpenFiles": [
-    "30_Smart_Contract_Security/32_Vulnerabilites/Weird ERC20s.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/ToCToU.md",
+    "30_Smart_Contract_Security/31_Concepts/Data Integrity.md",
+    "30_Smart_Contract_Security/31_Concepts/Private Audit.md",
+    "30_Smart_Contract_Security/31_Concepts/Invariants.md",
+    "30_Smart_Contract_Security/31_Concepts/Exploit.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/Uninitialized Contracts.md",
+    "30_Smart_Contract_Security/31_Concepts/CIA Triad.md",
     "30_Smart_Contract_Security/31_Concepts/Vulnerability.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/Implementation Vulnerability.md",
+    "30_Smart_Contract_Security/34_Best Practices/CEI Pattern.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/CEI Violation.md",
+    "30_Smart_Contract_Security/33_Exploits/Reentrancy Attack.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/Centralization.md",
     "30_Smart_Contract_Security/34_Best Practices/Timelock.md",
+    "30_Smart_Contract_Security/32_Vulnerabilites/Weird ERC20s.md",
     "30_Smart_Contract_Security/Testings/Stateful Fuzzing.md",
     "30_Smart_Contract_Security/34_Best Practices/Role-Based Access Control.md",
     "30_Smart_Contract_Security/31_Concepts/Properties.md",
-    "30_Smart_Contract_Security/32_Vulnerabilites/Centralization.md",
     "30_Smart_Contract_Security/31_Concepts",
     "30_Smart_Contract_Security/34_Best Practices",
     "30_Smart_Contract_Security/Testings",
-    "30_Smart_Contract_Security/34_Best Practices/CEI Pattern.md",
     "30_Smart_Contract_Security/32_Vulnerabilites",
     "30_Smart_Contract_Security/33_Exploits",
     "README.md",
-    "30_Smart_Contract_Security/31_Concepts/Data Integrity.md",
-    "30_Smart_Contract_Security/32_Vulnerabilites/CEI Violation.md",
-    "30_Smart_Contract_Security/32_Vulnerabilites/ToCToU.md",
-    "30_Smart_Contract_Security/32_Vulnerabilites/Implementation Vulnerability.md",
-    "30_Smart_Contract_Security/31_Concepts/Exploit.md",
-    "30_Smart_Contract_Security/33_Exploits/Reentrancy Attack.md",
     "Templates/Attack.md",
-    "30_Smart_Contract_Security/31_Concepts/CIA Triad.md",
-    "30_Smart_Contract_Security/32_Vulnerabilites/Uninitialized Contracts.md",
     "30_Smart_Contract_Security/32_Vulnerabilites/Design Vulnerability.md",
     "50_Case_Studies/Cream Finance Hack (October 2021).md",
     "20_Smart_Contract_Development/Initializer.md",
     "10_Blockchain_Fundamentals/DeFi/CPMM.md",
     "30_Smart_Contract_Security/32_Vulnerabilites/Contract Centralization.md",
     "30_Smart_Contract_Security/33_Exploits/Price Oracle Manipulation.md",
-    "20_Smart_Contract_Development/Proxy Pattern.md",
-    "10_Blockchain_Fundamentals/DeFi/Uniswap.md",
     "Untitled.canvas",
     "20_Smart_Contract_Development/EIP",
     "10_Blockchain_Fundamentals/DeFi",
